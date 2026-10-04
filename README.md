@@ -20,7 +20,7 @@ I'm an aspiring Software Engineer and Computer Science student with an interest 
 
 ## Featured Projects
 
-### Electronic Patient Record System
+### Electronic Patient Record System (Private – assessed A-Level project)
 An EPR system designed for small healthcare practices, built using **Python and MariaDB**.
 
 Key features include:
